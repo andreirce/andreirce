@@ -7,6 +7,8 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreirce&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreirce&layout=compact&langs_count=7&theme=dark"/></a> -->
 <!-- </div> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F738&random=false&width=435&height=35&lines=My+name+is+Andrei+Levi!;I'm+a+Full+Stack+developer!;I+have+19+years+old!!)](https://git.io/typing-svg)
+
 ### Technologies I use in my day
 
 <div style="display: inline_block"><br>
