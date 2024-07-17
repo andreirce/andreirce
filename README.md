@@ -2,10 +2,10 @@
 
 <p>Welcome to my profile. I am a Full Stack developer looking to increasingly improve my knowledge</p>
 
-<div align="center">
-  <a href="https://github.com/andreirce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreirce&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreirce&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/andreirce"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreirce&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreirce&layout=compact&langs_count=7&theme=dark"/></a> -->
+<!-- </div> -->
 
 ### Technologies I use in my day
 
