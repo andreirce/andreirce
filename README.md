@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- Full stack Developer<br>- software engineering student at Unicesumar</p>
+<p align="left">- Full stack Developer<br>- software engineering student at @Unicesumar</p>
 
 ###
 
@@ -50,8 +50,8 @@
   <a href="https://www.linkedin.com/in/andreilevi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="andreilevi21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="andreilevi21@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" target="_blank" />
   </a>
 </div>
 
