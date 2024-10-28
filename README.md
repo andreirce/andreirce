@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- Full stack Developer<br>- software engineering student at @Unicesumar</p>
+<p align="left">- Full stack Developer<br>- Software Engineering Student at @Unicesumar</p>
 
 ###
 
