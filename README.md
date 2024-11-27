@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">- Full stack Developer<br>- Software Engineering Student at @Unicesumar<br>- Back-End Developer at @Instaq </p>
+<p align="left">- Full stack Developer</p>
+<p align="left">- Back-end Developer at @Instaq</p>
+<p align="left">- Software Engineering Student at @Unicesumar </p>
+
 
 ###
 
