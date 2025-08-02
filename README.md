@@ -2,7 +2,7 @@
 
 <p>Welcome to my profile. I am a Full Stack developer looking to increasingly improve my knowledge</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C84EE&random=false&width=435&height=35&lines=My+name+is+Andrei+Levi!;I'm+a+Full+Stack+developer!;I+have+19+years+old!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C84EE&random=false&width=435&height=35&lines=My+name+is+Andrei+Levi!;I'm+a+Full+Stack+developer!;I+have+20+years+old!!)](https://git.io/typing-svg)
 
 <h2 align="left">About me</h2>
 
